@@ -20,3 +20,13 @@ td  {
   margin-left: auto;
   margin-right: auto;
 }
+
+a {
+    text-decoration: none;
+}
+a:link, a:visited {
+    color: black;
+}
+a:hover {
+    color: lightgrey;
+}
