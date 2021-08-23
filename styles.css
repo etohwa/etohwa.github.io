@@ -1,0 +1,22 @@
+head  {
+
+}
+
+body  {
+  text-align: center;
+  font-family: Tahoma;
+  background-color: lightgrey;
+  background-image: url('buch1.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+td  {
+  padding: 15px;
+  text-align: center;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
